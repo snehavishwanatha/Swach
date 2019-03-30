@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "560272460643",
+    "firebase_url": "https://latlong-c835f.firebaseio.com",
+    "project_id": "latlong-c835f",
+    "storage_bucket": "latlong-c835f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:560272460643:android:99ac46a9007ddade",
+        "android_client_info": {
+          "package_name": "com.example.sneha.latlong"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "560272460643-vks4djqvcd95frd5ovpqa117lphs0t3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sneha.latlong",
+            "certificate_hash": "4b3277feeaae40e4157b4797d3afc1ba8b728c3c"
+          }
+        },
+        {
+          "client_id": "560272460643-thuftjfomr6r5b5k117sl4dd1mpeh5td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLVPp-NIWIYGUwuyF-W7RfeXJbuINKRBY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "560272460643-thuftjfomr6r5b5k117sl4dd1mpeh5td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

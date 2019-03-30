@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#FFE4E1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Activity.MyActivity">
+
+    <LinearLayout
+        android:id="@+id/linearLayout3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginRight="8dp"
+        android:gravity="center"
+        android:orientation="vertical"
+        android:weightSum="1"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintLeft_toRightOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="parent"
+        app:layout_constraintVertical_bias="1.0">
+
+
+        <CheckBox
+            android:id="@+id/checkBox"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Upload a new garbage can location?" />
+
+        <Button
+            android:id="@+id/upload"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentStart="true"
+            android:layout_below="@+id/textView"
+            android:layout_toEndOf="@+id/textView"
+            android:text="Upload dustbin location"
+            android:visibility="gone"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="48dp" />
+
+        <Space
+            android:layout_width="match_parent"
+            android:layout_height="81dp" />
+
+        <Button
+            android:id="@+id/dustbin"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Locate dustbins" />
+
+        <Button
+            android:id="@+id/forum"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Forum" />
+
+        <Button
+            android:id="@+id/shoplist"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:text="Check public bins" />
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>
