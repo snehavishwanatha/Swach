@@ -1,14 +1,15 @@
 # Swach
 #### Created at PES hackathon 2019
 
-*Objective:* An app which focuses on a better waste management system which is user friendly and also paves a path in keeping the society clean and beautiful.
+## *Objective:* 
+An app which focuses on a better waste management system which is user friendly and also paves a path in keeping the society clean and beautiful.
 How many situations has one come across where he/she wanted to dispose the waste but couldn't find a garbage can near by ? Wouldn't it be great if he/she could find one at that moment!!
 
 Wouldn't it be favourable if there was a better communication channel between the public and waste management department? A way towards a collaborative step towards cleaner and healthy society.
 
 The app is beneficial for both citizens and Waste Management Departments in the city.
 
-** Features for Citizens
+### Features for Citizens
 
 • Our app shows the locations of all the garbage cans near the user's current location, so that he/she can efficiently dispose the waste instead of littering around.
 
@@ -18,7 +19,7 @@ The app is beneficial for both citizens and Waste Management Departments in the 
 
 • Any shopkeeper can contirbute to this initiative by keeping a garbage bin near their shop and providing its location in the app for public's use.
 
-**Features for Waste Management Departments
+### Features for Waste Management Departments
 
 Departments and stakeholders are responsible for providing the garbage cans/bins in all localities and uploading the locations with thier unique ID on the app.
 
@@ -28,4 +29,4 @@ Departments and stakeholders are responsible for providing the garbage cans/bins
 
 • Departments can hosts awareness programs and initiative on the app which can be notified to the public so that they can provide funds and contribute towards it
 
-Our contribution towards #swachbharat and a healthier society.
+An idea towards #swachbharat and a healthier society.
